@@ -5,7 +5,7 @@
 </p>
 
 ## 😄 About Me
-
+![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWczM2t2dGQwNWRvM2R3MHoxeG5kcDFzbG9yMTh6MDJ2anR1eDhncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif)
 <div>
   <samp>
     
