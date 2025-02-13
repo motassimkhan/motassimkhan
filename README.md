@@ -3,7 +3,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&color=2196F3&width=435&lines=Computer+Science+Undergrad;AI+and+ML+Enthusiast;Embracing+positivity" alt="Typing SVG" /></a>
 </p>
 
-## 😄 About Me
+##  About Me
 <p align="center">
   <img src="https://i.pinimg.com/originals/2b/cc/90/2bcc903971681f880dd16b8328a7aa09.gif" alt="Panda">
 </p>
